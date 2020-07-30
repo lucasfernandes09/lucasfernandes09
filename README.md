@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá, 👋
 
+### Sou o Lucas, 22 anos, do Rio de Janeiro. Estou atualmente procurando meu primeiro emprego como desenvolvedor Android 
+
+:link: [Linkedln](https://www.linkedin.com/in/lucas-fernandes-249b7a1a1/)
 <!--
 **lucasfernandes09/lucasfernandes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
