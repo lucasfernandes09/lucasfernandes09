@@ -1,6 +1,6 @@
 ### Olá, 👋
 
-Sou o Lucas, 22 anos, do Rio de Janeiro. Estou atualmente procurando meu primeiro emprego como desenvolvedor Android. Fascinado na maneira como a tecnologia pode não apenas ajudar mas realmente impactar a vida das pessoas.
+Sou o Lucas, 22 anos, do Rio de Janeiro. Estou atualmente procurando meu primeiro emprego como desenvolvedor Android. Sou Fascinado na maneira como a tecnologia pode não apenas ajudar mas realmente impactar a vida das pessoas.
 
 :link: [Linkedln](https://www.linkedin.com/in/lucas-fernandes-249b7a1a1/)
 <!--
