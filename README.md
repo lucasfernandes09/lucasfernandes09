@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas 👋
 
-tenho 24 anos e sou do Rio de Janeiro. Sou fascinado nas diversas possibilidades que a tecnologia pode nos fornecer, mas sou ainda mais fascinado em como a tecnologia pode realmente impactar a vida das pessoas. 
+tenho 24 anos e sou do Rio de Janeiro. Sou fascinado nas diversas possibilidades que a tecnologia pode nos fornecer e como ela pode impactar a vida das pessoas. 
 
 ### 📱💻 Android Developer
 
