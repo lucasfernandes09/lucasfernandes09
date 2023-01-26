@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas 👋
 
-tenho 24 anos e sou do Rio de Janeiro. Sou fascinado nas diversas possibilidades que a tecnologia pode nos fornecer e como ela pode impactar a vida das pessoas. 
+Programador autodidata. Tenho desenvolvido para a plataforma Android por aproximadamente 3 anos. Busco sempre entregar o máximo valor para evolução do projeto e do time no geral. 
 
 ### 📱💻 Android Developer
 
@@ -14,6 +14,7 @@ Algumas das principais tecnologias que uso:
 - Navigation
 - Retrofit, OkHttp
 - Picasso, Glide, Coil
+- Junit, Mockito, Espresso para testes unitários
 
 :link: [Linkedln](https://www.linkedin.com/in/lucas-fernandes-249b7a1a1/)
 <!--
