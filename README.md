@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas 👋
 
-Programador autodidata. Tenho desenvolvido para a plataforma Android por aproximadamente 3 anos. Busco sempre entregar o máximo valor para evolução do projeto e do time no geral. 
+Programador autodidata. Busco sempre entregar o máximo valor para evolução do projeto e do time no geral. 
 
 ### 📱💻 Android Developer
 
