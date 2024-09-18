@@ -6,7 +6,6 @@ Programador autodidata. Busco sempre entregar o máximo valor para evolução do
 
 
 Algumas das principais tecnologias que uso:
-- MVVM como padrão de arquitetura
 - Jetpack Compose
 - Coroutines, Flow
 - Koin
@@ -14,7 +13,8 @@ Algumas das principais tecnologias que uso:
 - Navigation
 - Retrofit, OkHttp
 - Picasso, Glide, Coil
-- Junit, Mockito, Espresso para testes unitários
+- MVVM, MVC
+- Junit, Mockito, Espresso
 
 :link: [Linkedln](https://www.linkedin.com/in/lucas-fernandes-249b7a1a1/)
 <!--
