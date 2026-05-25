@@ -1,6 +1,4 @@
-### Hi, I'm Lucas 👋
-
-### 📱💻 Mobile Engineer
+## 📱💻 Mobile Engineer
 
 
 
