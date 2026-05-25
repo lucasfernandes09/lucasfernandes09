@@ -1,33 +1,24 @@
-### Olá, eu sou o Lucas 👋
+### Hi, I'm Lucas 👋
 
-Programador autodidata. Busco sempre entregar o máximo valor para evolução do projeto e do time no geral. 
-
-### 📱💻 Android Developer
+### 📱💻 Mobile Engineer
 
 
-Algumas das principais tecnologias que uso:
-- Jetpack Compose
-- Coroutines, Flow
-- Koin
-- Room
-- Navigation
-- Retrofit, OkHttp
-- Picasso, Glide, Coil
-- MVVM, MVC
-- Junit, Mockito, Espresso
 
-:link: [Linkedln](https://www.linkedin.com/in/lucas-fernandes-249b7a1a1/)
-<!--
-**lucasfernandes09/lucasfernandes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is a snapshot of the main technologies and architectures I use to build robust solutions:
 
-Here are some ideas to get you started:
+### Core Mobile & Architecture
+* **Languages:** Kotlin, Dart, Java
+* **Architecture & Patterns:** Clean Architecture, MVVM, MVC, SOLID principles
+* **Deployment & Growth:** Apple Developer ecosystem, Play Store deployment, App Store Optimization (ASO)
+* **State Management:** BLoC, Provider, Riverpod
+* **Dependency Injection:** Koin
+* **UI & Graphics:** Material Design, Cupertino, Jetpack Compose, Coroutines, Flame Engine
+* **Backend & Cloud Services:** Firebase Ecosystem (Auth, Firestore, Cloud Functions), Supabase Ecosystem
+* **Networking:** Dio, Http, Retrofit
+* **Testing & QA:** JUnit, Mockito, Espresso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### General Engineering & Web
+* RESTful API integrations
+* Web Systems Development
+* Git, CI/CD pipelines, and Agile workflows
+
